@@ -1,0 +1,65 @@
+/* src/styles/Contact.css */
+
+.contact-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+  }
+  
+  .contact-container {
+    /* max-width: 500px; */
+    padding: 2rem;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-title {
+    text-align: center;
+    color: #333;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    font-size: 1.75rem;
+  }
+  
+  .contact-image {
+    height: 400px;
+    background-image: url('../Images/contact.avif'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+  }
+  
+  .contact-form .form-label {
+    color: #007bff;
+    font-weight: 600;
+  }
+  
+  .contact-form .form-control {
+    border: 1px solid #ced4da;
+    border-radius: 6px;
+    transition: box-shadow 0.2s ease;
+  }
+  
+  .contact-form .form-control:focus {
+    border-color: #6f42c1;
+    box-shadow: 0 0 5px rgba(111, 66, 193, 0.3);
+  }
+  
+  .gradient-button {
+    width: 100%;
+    color: #fff;
+    background: linear-gradient(90deg, #007bff, #6f42c1);
+    border: none;
+    font-weight: 600;
+    border-radius: 6px;
+    transition: background 0.3s ease;
+    padding: 10px 0;
+  }
+  
+  .gradient-button:hover {
+    background: linear-gradient(90deg, #6f42c1, #007bff);
+  }
+  

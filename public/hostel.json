@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Green Valley Hostel",
+    "location": "Mumbai",
+    "price": 5000,
+    "amenities": ["WiFi", "Laundry", "24/7 Security"],
+    "description": "A comfortable and affordable hostel in Mumbai.",
+    "image": "https://img.freepik.com/free-photo/front-view-young-friends-hostel_23-2150598844.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blue Horizon Hostel",
+    "location": "Delhi",
+    "price": 4500,
+    "amenities": ["WiFi", "Gym", "Cafeteria"],
+    "description": "Modern hostel with excellent facilities in Delhi.",
+    "image": "https://media.istockphoto.com/id/1208347853/photo/young-friends-planning-trip-in-hostel.jpg?s=612x612&w=0&k=20&c=bUBKiZUt57zWGeWVAzNPOA8f3EODPfge9vJlzb3uGjQ="
+  },
+  {
+    "id": 3,
+    "name": "Royal Stay Hostel",
+    "location": "Bangalore",
+    "price": 5500,
+    "amenities": ["WiFi", "AC", "Gym"],
+    "description": "Luxurious hostel experience in Bangalore.",
+    "image": "https://images.unsplash.com/photo-1709805619372-40de3f158e83?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG9zdGVsfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 4,
+    "name": "Sunny Side Hostel",
+    "location": "Chennai",
+    "price": 4000,
+    "amenities": ["WiFi", "Laundry"],
+    "description": "Bright and cozy atmosphere in Chennai.",
+    "image": "https://img.freepik.com/free-photo/front-view-young-friends-hostel_23-2150598844.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cozy Nest Hostel",
+    "location": "Pune",
+    "price": 4800,
+    "amenities": ["WiFi", "Cafeteria"],
+    "description": "Warm and Historic place to stay in Pune.",
+    "image": "https://media.istockphoto.com/id/1208347853/photo/young-friends-planning-trip-in-hostel.jpg?s=612x612&w=0&k=20&c=bUBKiZUt57zWGeWVAzNPOA8f3EODPfge9vJlzb3uGjQ="
+  },
+  {
+    "id": 6,
+    "name": "Harmony Hostel",
+    "location": "Hyderabad",
+    "price": 5200,
+    "amenities": ["WiFi", "Gym", "24/7 Security"],
+    "description": "A perfect blend of comfort and security.",
+    "image": "https://images.unsplash.com/photo-1709805619372-40de3f158e83?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG9zdGVsfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 7,
+    "name": "Dreamer's Den",
+    "location": "Ahmedabad",
+    "price": 5300,
+    "amenities": ["WiFi", "Cafeteria", "Laundry"],
+    "description": "Ideal for students and travelers.",
+    "image": "https://img.freepik.com/free-photo/front-view-young-friends-hostel_23-2150598844.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Heritage Hostel",
+    "location": "Jaipur",
+    "price": 6000,
+    "amenities": ["WiFi", "AC", "24/7 Security"],
+    "description": "Experience the heritage and hospitality.",
+    "image": "https://media.istockphoto.com/id/1208347853/photo/young-friends-planning-trip-in-hostel.jpg?s=612x612&w=0&k=20&c=bUBKiZUt57zWGeWVAzNPOA8f3EODPfge9vJlzb3uGjQ="
+  },
+  {
+    "id": 9,
+    "name": "Friendly Stay",
+    "location": "Kolkata",
+    "price": 4900,
+    "amenities": ["WiFi", "Laundry"],
+    "description": "Affordable and friendly atmosphere.",
+    "image": "https://images.unsplash.com/photo-1709805619372-40de3f158e83?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG9zdGVsfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 10,
+    "name": "The Staycation",
+    "location": "Lucknow",
+    "price": 4700,
+    "amenities": ["WiFi", "Cafeteria", "24/7 Security"],
+    "description": "Perfect stay for relaxation and fun.",
+    "image": "https://img.freepik.com/free-photo/front-view-young-friends-hostel_23-2150598844.jpg"
+  }
+]

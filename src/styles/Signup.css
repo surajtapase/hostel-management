@@ -1,0 +1,35 @@
+/* src/pages/Auth.css */
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* min-height: 100vh; */
+    /* background: linear-gradient(120deg, #f0f2f5, #ffffff); */
+    /* margin-top: 4rem; */
+    padding-top: 3rem;
+  }
+  
+  .auth-title {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #333;
+  }
+  
+  .auth-input {
+    border-radius: 0.25rem; /* Slightly rounded corners */
+  }
+  
+  .auth-button {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    color: white;
+  }
+  
+  .auth-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 0.5rem; /* Slightly rounded corners */
+  }
+  

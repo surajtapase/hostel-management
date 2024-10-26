@@ -1,0 +1,102 @@
+/* src/components/HostelCard.css */
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+    height: 400px; /* Set a fixed height for the card */
+    display: flex;
+    flex-direction: column; /* Arrange children in a column */
+  }
+  
+  .card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .image-placeholder {
+    height: 200px; /* Set a fixed height for the image */
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #bdc3c7;
+  }
+  
+  .image-text {
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #7f8c8d;
+    margin-bottom: 1rem;
+    flex-grow: 1; /* Allow text area to take remaining space */
+  }
+  
+  .button {
+    background: linear-gradient(45deg, #3498db, #2ecc71); /* Gradient background */
+    border: none; /* Remove border */
+    color: #fff;
+    font-weight: 500;
+    width: 100%;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background: linear-gradient(90deg, #007bff, #6f42c1); /* Darker gradient on hover */
+  }
+  
+  /* Amenities icon style */
+  .amenities {
+    display: flex; /* Align icons in a row */
+    gap: 10px; /* Space between icons */
+    margin-top: 10px; /* Add margin on top */
+  }
+  
+  .list-view {
+    display: flex; /* Use flexbox for list view */
+    flex-direction: row; /* Items in a row */
+    align-items: flex-start; /* Align items at the start */
+}
+
+.list-view-content {
+    display: flex; /* Flexbox for list view content */
+}
+
+.image-placeholder {
+    height: 250px; /* Fixed height for image */
+    width: 250px; /* Fixed width for image */
+}
+
+.card-body {
+    padding: 1rem; /* Adjust padding for card body */
+    flex: 1; /* Allow body to take remaining space */
+}
+
+.amenities {
+    display: flex; /* Flexbox for amenities icons */
+    flex-wrap: wrap; /* Wrap if there's no space */
+}
+
+.button {
+    background: linear-gradient(90deg, #007bff, #6f42c1); /* Update to gradient background */
+    border-color: #3498db;
+    color: #fff;
+    font-weight: 500;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background: linear-gradient(90deg, #007bff, #6f42c1); /* Update hover color */
+}

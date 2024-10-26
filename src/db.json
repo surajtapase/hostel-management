@@ -1,0 +1,47 @@
+{
+    "hostels": [
+      {
+        "id": 1,
+        "name": "Green Valley Hostel",
+        "location": "Pune",
+        "price": 5000,
+        "amenities": ["WiFi", "Laundry", "24/7 Security"],
+        "description": "A comfortable and affordable hostel in Mumbai.",
+        "reviews": [
+          {
+            "id": 1,
+            "user": "John Doe",
+            "comment": "Great place to stay!",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Blue Horizon Hostel",
+        "location": "kothrud",
+        "price": 4500,
+        "amenities": ["WiFi", "Gym", "Cafeteria"],
+        "description": "Modern hostel with excellent facilities in Delhi.",
+        "reviews": [
+          {
+            "id": 1,
+            "user": "Jane Smith",
+            "comment": "Very clean and well-maintained.",
+            "rating": 4
+          }
+        ]
+      }
+      // Add more hostels as needed
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "abc",
+        "email": "abc@gmail.com",
+        "password": "abc123"
+      }
+      // Add more users as needed
+    ]
+  }
+  

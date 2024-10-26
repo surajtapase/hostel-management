@@ -1,0 +1,60 @@
+/* src/pages/HostelDetail.css */
+
+.amenity-icon {
+    font-size: 1.5rem;
+    margin-right: 8px;
+    color: #17a2b8; /* Customize icon color */
+    vertical-align: middle;
+  }
+  
+  .hostel-detail-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .hostel-title {
+    color: #343a40;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .hostel-info p {
+    font-size: 1rem;
+    color: #495057;
+  }
+  
+  .booking-form .form-control {
+    background-color: #ffffff;
+    border: 1px solid #ced4da;
+    box-shadow: none;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .booking-form .form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  
+  .review-item {
+    border-top: 1px solid #e9ecef;
+    padding-top: 15px;
+    margin-top: 15px;
+  }
+  
+  .no-reviews {
+    color: #6c757d;
+    font-size: 1rem;
+  }
+  
+  .mt-4, .mt-5 {
+    margin-top: 1.5rem !important;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem !important;
+  }
+  
